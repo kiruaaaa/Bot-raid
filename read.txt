@@ -1,0 +1,7 @@
+Extract node module in folder "Bot raid" 
+Open index.js change Token
+
+Thanks you
+
+
+By Judy Dev Discord devlopper Entrainement
